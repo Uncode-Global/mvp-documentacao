@@ -49,10 +49,4 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 | **Direcionar para link Externo**             | Opcional    | Definir se abre em uma nova aba                                                                                                                 |
 
 
-<br>
-<br>
-<br>
-### Segue um exemplo de como precisa ficar o banner
 
-<br>
-<br>
