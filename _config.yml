@@ -6,3 +6,4 @@ theme: jekyll-theme-slate
 collections:
   pages:
     output: true
+baseurl: "/meu-repositorio"
