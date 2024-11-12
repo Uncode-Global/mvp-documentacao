@@ -16,7 +16,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 **Versão Desktop:**
 
-- **Banner medida:** 2500px largura x 1000px altura.
+- **Banner medida:** 4000px largura x 3000px altura.
 - **Layout:** Horizontal
 - **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
@@ -26,7 +26,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 **Versão Mobile:**
 
-- **Banner medida:** 720px largura x 965px altura.
+- **Banner medida:** 1024px largura x 565px altura.
 - **Layout:** Vertical
 - **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
@@ -44,7 +44,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 |----------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Imagem**                                   | Sim         | [Esta descritivo acima]                             |
 | **Titulo**                                   | Sim         | Campo para pesquisa no painel                                                                                                                  |
-| **Posição**                                  | Sim         | home-bloco-1                                                                                                                                     |
+| **Posição**                                  | Sim         | home-bloco-4                                                                                                                                     |
 | **URL**                                      | Opcional    | Local para adicionar o link com o direcionamento do banner.                                                                                     |
 | **Direcionar para link Externo**             | Opcional    | Definir se abre em uma nova aba                                                                                                                 |
 
