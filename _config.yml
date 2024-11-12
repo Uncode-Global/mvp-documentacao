@@ -4,6 +4,7 @@ theme: jekyll-theme-slate
 
 # Definindo o diretório de páginas
 collections:
+ gestao_projeto:
   pages:
     output: true
 baseurl: "/meu-repositorio"

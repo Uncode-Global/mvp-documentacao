@@ -7,15 +7,16 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
     
 </head>
-<body>
-
-    {% include nav.html %}
-
-    <main>
-        {{ content }}
-    </main>
-
-    {% include footer.html %}
+<body class="{{ page.layout }} {{ page.title | slugify }}">
+    
+    <div class="page-wrapper">
+        {% include header.html %}
+    
+        <main>
+            {{ content }}
+        </main>
+    </div>
+    
 
     <script src="{{ site.baseurl }}/assets/script.js"></script>
 </body>
