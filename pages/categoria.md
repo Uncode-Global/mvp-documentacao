@@ -16,7 +16,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 **Versão Desktop:**
 
-- **Banner medida:** 1920px largura x 730px altura.
+- **Banner medida:** 2500px largura x 1000px altura.
 - **Layout:** Horizontal
 - **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
