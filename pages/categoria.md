@@ -3,7 +3,7 @@ layout: default
 title: Sobre4
 ---
 
-## Slideshow principal - Bloco 1
+## Slideshow principal - Bloco 2 
 
 
 O Slideshow principal é o primeiro banner que aparece quando o cliente visualiza o site, é composto por um ou mais banners, conforme for alocando mais banners no painel na mesma posição, automaticamente entrará em carrossel. O banner deve ser enviado com o conteúdo textual e o botão CTA aplicado.
@@ -16,7 +16,7 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 **Versão Desktop:**
 
-- **Banner medida:** 4000px largura x 3000px altura.
+- **Banner medida:** 1920px largura x 1080px altura.
 - **Layout:** Horizontal
 - **Extensão do arquivo:** PNG
 - **Resolução:** 72dpi (para web)
@@ -37,14 +37,14 @@ Hoje, usamos um banner para versão desktop e um banner para versão mobile, aba
 
 ---
 
-## Como cadastrar o slideshow Bloco 1
+## Como cadastrar o slideshow Bloco 1 no painel da Vnda
 
 
 | Campo                                        | Obrigatório | Orientação                                                                                                                                      |
 |----------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Imagem**                                   | Sim         | [Esta descritivo acima]                             |
 | **Titulo**                                   | Sim         | Campo para pesquisa no painel                                                                                                                  |
-| **Posição**                                  | Sim         | home-bloco-4                                                                                                                                     |
+| **Posição**                                  | Sim         | home-tag-bloco-1                                                                                                                                     |
 | **URL**                                      | Opcional    | Local para adicionar o link com o direcionamento do banner.                                                                                     |
 | **Direcionar para link Externo**             | Opcional    | Definir se abre em uma nova aba                                                                                                                 |
 
